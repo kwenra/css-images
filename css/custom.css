@@ -1,4 +1,4 @@
-.header {
+.heading {
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
   background-attachment: relative;
@@ -7,5 +7,5 @@
 }
 
 body {
-  
+  background-image: url(../img/metal.jpg);
 }
