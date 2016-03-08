@@ -16,7 +16,6 @@
 }
 
 body {
-  padding-top: 40px;
   background-image: url(../img/metal.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -25,4 +24,8 @@ body {
 
 img {
   width: 100%;
+}
+
+.maincontent {
+  padding-top: 40px;
 }
