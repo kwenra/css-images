@@ -18,5 +18,10 @@
 body {
   background-image: url(../img/metal.jpg);
   background-repeat: no-repeat;
-  color: #fff;
+  background-position: center;
+  background-color: #999;
+}
+
+img {
+  width: 100%;
 }
